@@ -5,7 +5,7 @@
   
 
 ## Usage and Applications
-### Work Day Scheduler is a site where you can schedule tasks on an hourly basis during daytime ours.  This app will prevent laziness.
+### With the scheduler you can plan your day and be more productive. This app will prevents laziness.
 
 
 <p>&nbsp;</p>  
