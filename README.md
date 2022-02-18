@@ -21,7 +21,7 @@
 <p>&nbsp;</p>
   
 ## Credits
-### A simple app using html, css, and javascript to be used on a web browser.  Dru Sanchez, my tutor provided some pointers.
+### A simple app using html, css, javascript, and moment JS to be used on a web browser.  Dru Sanchez, my tutor provided some pointers.
 
 
 
